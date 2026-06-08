@@ -15,7 +15,7 @@ The model learns review patterns from historical Amazon reviews and generates re
 ├── train.ipynb          # Model training pipeline
 ├── test.ipynb           # Model evaluation and inference
 ├── models/             # Pretrained model files
-├── data/               # Dataset directory (not included)
+├── data/               # Dataset directory
 └── README.md
 ```
 
